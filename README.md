@@ -1,5 +1,4 @@
 # Insurance Claim Analysis: Demographic and Health Factors
-## About Dataset
 Datset from  kaggle : https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health/data <br>
 Dataset contains 11 columns and 1,340 rows, providing detailed information about insurance claims. The attributes include age, gender, BMI, blood pressure, diabetic status, number of children, smoking status, and the region of the insured person.
 - Diabetic: Indicates whether the insured person has diabetes.
